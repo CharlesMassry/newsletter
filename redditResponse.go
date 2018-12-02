@@ -1,4 +1,4 @@
-package main
+package newsletter
 
 // RedditResponse holds reddit response data
 type RedditResponse struct {
